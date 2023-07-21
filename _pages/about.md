@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website.
 
-I'm a student at Monash University currently concentrating in advanced computer science and econometrics. I have a strong inclination towards tackling complex problems as I firmly believe that continual challenges are the key to personal growth and improvement.
+Current a student at Monash University concentrating in advanced computer science and econometrics. I like tackling complex problems as I believe that continual challenges are the key to personal growth and improvement.
 
-My interests also include reading, cooking, playing badminton, watching shows and music. 
+My interests also include reading, cooking, digital art, music and watching shows. 
