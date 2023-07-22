@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Monash CS 26'
+subtitle: Monash CS/Ecom 26'
 
 profile:
   align: right
