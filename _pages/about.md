@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hiㅤ٩(ﾟｰﾟ ٩) 
+Hi ٩(ﾟｰﾟ ٩) 
 
 I am currently a student at Monash University concentrating in advanced computer science and econometrics. 
