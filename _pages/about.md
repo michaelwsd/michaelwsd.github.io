@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Monash CS/Ecom 26'
 
@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi ^•^
+Hi ^_^
 
 I am currently a student at Monash University concentrating in advanced computer science and econometrics. 
