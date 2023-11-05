@@ -6,7 +6,7 @@
     - name: Location
       value: Melbourne, Australia
     - name: Languages
-      value: English, Chinese (Mandarin)
+      value: English, Mandarin (Chinese)
 
 - title: Education
   type: time_table
